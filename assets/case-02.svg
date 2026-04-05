@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Caso 2">
+  <rect width="800" height="520" fill="#12253f"/>
+  <rect x="70" y="80" width="660" height="360" rx="22" fill="#8de4cf"/>
+  <rect x="180" y="170" width="430" height="180" rx="16" fill="#1d345a"/>
+  <text x="400" y="490" text-anchor="middle" fill="#ecf3ff" font-family="Arial" font-size="26">Caso continuidad</text>
+</svg>

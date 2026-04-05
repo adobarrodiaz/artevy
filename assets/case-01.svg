@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Caso 1">
+  <rect width="800" height="520" fill="#152744"/>
+  <rect x="80" y="70" width="640" height="380" rx="22" fill="#9dc2ee"/>
+  <circle cx="280" cy="250" r="90" fill="#e8f2ff"/>
+  <text x="400" y="490" text-anchor="middle" fill="#ecf3ff" font-family="Arial" font-size="26">Caso pre-evento</text>
+</svg>

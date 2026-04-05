@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-label="Servicio facial">
+  <rect width="720" height="480" fill="#1d3a67"/>
+  <rect x="90" y="80" width="540" height="320" rx="24" fill="#e8f0ff"/>
+  <circle cx="360" cy="220" r="90" fill="#b6cfff"/>
+</svg>

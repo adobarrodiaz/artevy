@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Perfil de profesional de estetica">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#b4cfff"/>
+      <stop offset="100%" stop-color="#8ce7cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0f1a34"/>
+  <circle cx="400" cy="230" r="120" fill="url(#g1)"/>
+  <rect x="230" y="360" width="340" height="170" rx="70" fill="url(#g1)"/>
+  <text x="400" y="560" text-anchor="middle" fill="#e9f1ff" font-size="28" font-family="Arial">Espacio para foto real del equipo</text>
+</svg>

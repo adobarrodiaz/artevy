@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 840" role="img" aria-label="Escena editorial de centro de estetica premium">
+  <defs>
+    <linearGradient id="gA" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b8d2ff"/>
+      <stop offset="100%" stop-color="#9ef0d9"/>
+    </linearGradient>
+    <linearGradient id="gB" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1d3158"/>
+      <stop offset="100%" stop-color="#14243f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="840" fill="url(#gB)"/>
+  <circle cx="180" cy="120" r="180" fill="#8eb6ff" opacity="0.24"/>
+  <circle cx="1010" cy="90" r="170" fill="#90f0d7" opacity="0.22"/>
+  <rect x="140" y="170" width="920" height="500" rx="28" fill="#0f1e39" opacity="0.86"/>
+  <rect x="190" y="220" width="360" height="400" rx="18" fill="url(#gA)" opacity="0.95"/>
+  <rect x="585" y="220" width="425" height="120" rx="14" fill="#223a67"/>
+  <rect x="585" y="370" width="425" height="100" rx="14" fill="#294573"/>
+  <rect x="585" y="500" width="320" height="90" rx="14" fill="#335587"/>
+  <text x="600" y="755" text-anchor="middle" fill="#eaf2ff" font-family="Arial" font-size="34">Imagen editorial premium del centro</text>
+</svg>

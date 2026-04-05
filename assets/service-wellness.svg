@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-label="Servicio bienestar">
+  <rect width="720" height="480" fill="#17355e"/>
+  <rect x="120" y="140" width="480" height="220" rx="26" fill="#deebff"/>
+  <rect x="170" y="190" width="380" height="120" rx="22" fill="#9ec0f3"/>
+</svg>

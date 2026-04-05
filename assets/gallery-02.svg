@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Detalle facial">
+  <rect width="900" height="900" fill="#12253f"/>
+  <circle cx="450" cy="430" r="250" fill="#9cd3c8"/>
+  <circle cx="450" cy="430" r="150" fill="#edf7f2"/>
+  <text x="450" y="820" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Detalle de tratamiento</text>
+</svg>

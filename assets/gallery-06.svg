@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Espacio cuidado">
+  <rect width="900" height="900" fill="#132746"/>
+  <rect x="130" y="140" width="640" height="620" rx="22" fill="#a2c1eb"/>
+  <rect x="220" y="250" width="460" height="400" rx="16" fill="#e6effb"/>
+  <text x="450" y="830" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Espacio cuidado</text>
+</svg>

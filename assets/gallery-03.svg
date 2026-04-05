@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Zona de bienvenida">
+  <rect width="900" height="900" fill="#142847"/>
+  <rect x="120" y="150" width="660" height="600" rx="24" fill="#8de5d0"/>
+  <rect x="180" y="230" width="540" height="430" rx="20" fill="#1e365c"/>
+  <text x="450" y="830" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Zona de bienvenida</text>
+</svg>

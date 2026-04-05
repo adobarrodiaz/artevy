@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Sesion de bienestar">
+  <rect width="900" height="900" fill="#10213d"/>
+  <rect x="130" y="210" width="640" height="470" rx="20" fill="#97e9d7"/>
+  <rect x="220" y="310" width="460" height="270" rx="18" fill="#1f355b"/>
+  <text x="450" y="820" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Sesion de bienestar</text>
+</svg>

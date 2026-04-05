@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Cabina elegante">
+  <rect width="900" height="1200" fill="#112243"/>
+  <rect x="80" y="120" width="740" height="960" rx="30" fill="#8eb5e8"/>
+  <rect x="160" y="220" width="580" height="760" rx="24" fill="#e5eefb"/>
+  <text x="450" y="1130" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Cabina premium</text>
+</svg>

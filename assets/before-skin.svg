@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Estado orientativo antes de tratamiento">
+  <defs>
+    <linearGradient id="b1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6f8ec0"/>
+      <stop offset="100%" stop-color="#8aa9d7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#b1)"/>
+  <circle cx="320" cy="350" r="180" fill="#c8d8ef" opacity="0.6"/>
+  <circle cx="420" cy="300" r="12" fill="#7c8faa"/>
+  <circle cx="470" cy="360" r="9" fill="#7c8faa"/>
+  <circle cx="360" cy="420" r="11" fill="#7c8faa"/>
+  <text x="920" y="360" text-anchor="middle" fill="#f3f7ff" font-family="Arial" font-size="58">ANTES</text>
+</svg>

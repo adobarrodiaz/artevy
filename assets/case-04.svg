@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Caso 4">
+  <rect width="800" height="520" fill="#14253f"/>
+  <rect x="90" y="90" width="620" height="340" rx="22" fill="#86aedf"/>
+  <rect x="140" y="130" width="520" height="260" rx="18" fill="#dae8fb"/>
+  <circle cx="390" cy="260" r="72" fill="#8fd9d0"/>
+  <text x="400" y="490" text-anchor="middle" fill="#ecf3ff" font-family="Arial" font-size="26">Caso facial avanzado</text>
+</svg>

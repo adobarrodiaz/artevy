@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Estado orientativo despues de tratamiento">
+  <defs>
+    <linearGradient id="a1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9cd7cf"/>
+      <stop offset="100%" stop-color="#9ec4e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#a1)"/>
+  <circle cx="320" cy="350" r="180" fill="#ecf6f4" opacity="0.8"/>
+  <circle cx="420" cy="300" r="8" fill="#a6b9c4"/>
+  <circle cx="470" cy="360" r="6" fill="#a6b9c4"/>
+  <circle cx="360" cy="420" r="7" fill="#a6b9c4"/>
+  <text x="920" y="360" text-anchor="middle" fill="#f9ffff" font-family="Arial" font-size="58">DESPUES</text>
+</svg>

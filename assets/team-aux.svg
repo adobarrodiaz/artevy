@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Asistente de cabina estetica">
+  <defs>
+    <linearGradient id="t1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9cbdf0"/>
+      <stop offset="100%" stop-color="#95e7d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#10203d"/>
+  <circle cx="400" cy="230" r="120" fill="url(#t1)"/>
+  <rect x="240" y="360" width="320" height="170" rx="70" fill="url(#t1)"/>
+  <text x="400" y="565" text-anchor="middle" fill="#e9f1ff" font-size="28" font-family="Arial">Equipo de apoyo</text>
+</svg>

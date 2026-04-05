@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Caso 3">
+  <rect width="800" height="520" fill="#162a47"/>
+  <circle cx="280" cy="250" r="150" fill="#99bff0"/>
+  <circle cx="280" cy="250" r="80" fill="#e9f2ff"/>
+  <rect x="450" y="150" width="220" height="200" rx="16" fill="#8fe5d0"/>
+  <text x="400" y="490" text-anchor="middle" fill="#ecf3ff" font-family="Arial" font-size="26">Caso cejas + limpieza</text>
+</svg>

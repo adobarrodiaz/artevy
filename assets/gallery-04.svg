@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Herramientas profesionales">
+  <rect width="900" height="1200" fill="#132544"/>
+  <rect x="90" y="130" width="720" height="930" rx="30" fill="#8bb0de"/>
+  <circle cx="300" cy="500" r="80" fill="#edf4ff"/>
+  <circle cx="450" cy="500" r="80" fill="#edf4ff"/>
+  <circle cx="600" cy="500" r="80" fill="#edf4ff"/>
+  <text x="450" y="1130" text-anchor="middle" fill="#e9f2ff" font-size="34" font-family="Arial">Material profesional</text>
+</svg>
